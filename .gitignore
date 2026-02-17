@@ -1,0 +1,15 @@
+# Python & Colab
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (JANGAN UPLOAD DATA SPASIAL BESAR)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.csv
+*.prj
+*.geojson
+*.cpg
