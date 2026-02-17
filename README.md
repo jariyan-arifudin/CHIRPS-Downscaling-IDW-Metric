@@ -66,7 +66,7 @@ Pastikan struktur direktori di Google Drive Anda sesuai dengan konfigurasi berik
 * `TARGET_CRS`: Sistem koordinat target (default: EPSG:32748 untuk Jambi).
 
 
-4. **Eksekusi**: Jalankan script. Proses interpolasi menggunakan *cKDTree* yang efisien, namun waktu pemrosesan bergantung pada jumlah file dan luas wilayah.
+4. **Eksekusi**: Jalankan script. Proses interpolasi menggunakan *cKDTree* yang efisien, tetapi waktu pemrosesan bergantung pada jumlah file dan luas wilayah.
 
 ## Spesifikasi Output
 
