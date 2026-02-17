@@ -81,6 +81,7 @@ File output yang dihasilkan memiliki karakteristik:
 ## Penulis
 
 **Jariyan Arifudin** Mahasiswa Geografi Lingkungan
+
 Universitas Gadjah Mada (UGM)
 
 ## Lisensi & Sitasi
